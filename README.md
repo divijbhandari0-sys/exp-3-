@@ -1,3 +1,5 @@
+Divij bhandari 
+25070123160
 aim: Study of Tuple in Python
 
 theory: In this experiment we learned how to use tuple in python.
